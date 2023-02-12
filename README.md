@@ -1,4 +1,4 @@
-# rehan_project
+# Rubys cake website with VeuJS
 
 ## Project setup
 ```
